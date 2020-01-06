@@ -8,9 +8,7 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  spielberg = directors_database[0][:movies]
-  filmography = 0 
-  while filmography < 
+
 end
 
 pretty_print_nds(directors_database)
